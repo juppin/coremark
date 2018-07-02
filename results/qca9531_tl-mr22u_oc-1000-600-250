@@ -1,0 +1,18 @@
+$ coremark_mips32r2
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total ticks      : 13122
+Total time (secs): 13.122000
+Iterations/Sec   : 2286.236854
+Iterations       : 30000
+Compiler version : GCC5.4.0
+Compiler flags   : -O2 -s -static   -lrt
+Memory location  : Please put data memory location here
+			(e.g. code in flash, data on heap etc)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0x5275
+Correct operation validated. See readme.txt for run and reporting rules.
+CoreMark 1.0 : 2286.236854 / GCC5.4.0 -O2 -s -static   -lrt / Heap
